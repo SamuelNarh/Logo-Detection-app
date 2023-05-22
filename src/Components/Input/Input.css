@@ -1,0 +1,12 @@
+button{
+height:37px;
+background-color:rgb(113, 80, 203);
+border-radius: 3px;
+color: rgb(245, 245, 245);
+}
+
+button:hover{
+cursor: pointer;
+background-color:rgb(86, 44, 200) ;
+color: rgb(25, 127, 112);
+}
