@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  background:linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+   background:linear-gradient(135deg,rgba(68, 164, 199, 0.1),rgba(171, 75, 191, 0));
   /* backdrop-filter: blur(20px); */
-  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37); 
-  border: 1px solig rgba(255, 255,255, 0.18); 
-  border-radius: 32px;
+   box-shadow: 0 8px 32px 0 rgba(53, 116, 183, 0.37); 
+  border: 1px solig #1daccc2e; 
+  border-radius: 32px; 
 }
 
 code {
